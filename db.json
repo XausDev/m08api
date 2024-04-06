@@ -1,6 +1,7 @@
 {
   "peliculas": [
         {
+          "id": 1,
           "titulo": "El Padrino",
           "director": "Francis Ford Coppola",
           "genero": ["Drama", "Crimen"],
@@ -9,6 +10,7 @@
           "valoracion": 5
         },
         {
+          "id": 2,
           "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
           "director": "Peter Jackson",
           "genero": ["Fantasía", "Aventura"],
@@ -17,6 +19,7 @@
           "valoracion": 5
         },
         {
+          "id": 3,
           "titulo": "Matrix",
           "director": "The Wachowskis",
           "genero": ["Ciencia ficción", "Acción"],
@@ -25,6 +28,7 @@
           "valoracion": 4
         },
         {
+          "id": 4,
           "titulo": "Forrest Gump",
           "director": "Robert Zemeckis",
           "genero": ["Drama", "Comedia"],
