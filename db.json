@@ -4,7 +4,7 @@
           "id": 1,
           "titulo": "El Padrino",
           "director": "Francis Ford Coppola",
-          "genero": ["Drama", "Crimen"],
+          "genero": ["Drama", " Crimen"],
           "anyo_estreno": 1972,
           "fecha_estreno": "1972-03-15",
           "valoracion": 5
@@ -13,7 +13,7 @@
           "id": 2,
           "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
           "director": "Peter Jackson",
-          "genero": ["Fantasía", "Aventura"],
+          "genero": ["Fantasía", " Aventura"],
           "anyo_estreno": 2001,
           "fecha_estreno": "2001-12-19",
           "valoracion": 5
@@ -22,7 +22,7 @@
           "id": 3,
           "titulo": "Matrix",
           "director": "The Wachowskis",
-          "genero": ["Ciencia ficción", "Acción"],
+          "genero": ["Ciencia ficción", " Acción"],
           "anyo_estreno": 1999,
           "fecha_estreno": "1999-03-31",
           "valoracion": 4
@@ -31,7 +31,7 @@
           "id": 4,
           "titulo": "Forrest Gump",
           "director": "Robert Zemeckis",
-          "genero": ["Drama", "Comedia"],
+          "genero": ["Drama", " Comedia"],
           "anyo_estreno": 1994,
           "fecha_estreno": "1994-07-06",
           "valoracion": 5
